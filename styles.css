@@ -1,0 +1,45 @@
+body{
+color :rgb(255, 255, 255);
+background :darkred;
+margin: 0px;
+font-family: "Silkscreen", sans-serif;
+}
+
+header{
+border-bottom: solid black 13px;
+padding: 20px;
+font-size: 120px;
+}
+
+.legenda1{
+    color:black;
+}
+
+.video{
+    margin:400px;
+    margin-top: 50px;
+    margin-bottom: 32px;
+}
+
+.text1{
+    color:white;
+    font-size: 50;    
+
+}
+
+.legenda2{
+    color:black;
+    font-size: 58;
+    margin-top: 50;
+}
+
+.Asphalt{
+    font-size:50px;
+}
+
+.trailerAsphalt{
+    
+}
+.fortnite{
+    font-size:50px;
+}
